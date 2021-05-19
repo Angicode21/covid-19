@@ -1,0 +1,253 @@
+
+{
+    "Torino": [
+        {
+         "date": "16-Mar",
+         "decessi": 20,
+         "contagi": 542
+        },
+        {
+            "date": "17-Mar",
+            "decessi": 25,
+            "contagi": 904
+           },
+           {
+            "date": "18-Mar",
+            "decessi": 35,
+            "contagi": 1171
+           },
+           {
+            "date": "19-Mar",
+            "decessi": 37,
+            "contagi": 1360
+           },
+           {
+            "date": "20-Mar",
+            "decessi": 49,
+            "contagi":1590 
+           },
+           {
+            "date": "21-Mar",
+            "decessi": 62,
+            "contagi": 1788
+           },
+           {
+            "date": "22-Mar",
+            "decessi": 70,
+            "contagi": 2018
+           },
+           {
+            "date": "23-Mar",
+            "decessi": 86,
+            "contagi": 2317
+           },
+           {
+            "date": "24-Mar",
+            "decessi": 105,
+            "contagi": 2660
+           },
+           {
+            "date": "25-Mar",
+            "decessi": 153,
+            "contagi": 2902
+           },
+           {
+            "date": "26-Mar",
+            "decessi": 170,
+            "contagi": 3149
+           },
+           
+           {
+         "date": "27-Mar",
+         "decessi": 193,
+         "contagi": 3435
+        },
+        {
+            "date": "28-Mar",
+            "decessi": 213,
+            "contagi": 3772
+           },
+           {
+            "date": "29-Mar",
+            "decessi": 236,
+            "contagi": 4012
+           },
+           {
+            "date": "30-Mar",
+            "decessi": 271,
+            "contagi": 4193
+           },
+           {
+         "date": "31-Mar",
+         "decessi": 303,
+         "contagi": 4512
+        },
+        {
+            "date": "1-Apr",
+            "decessi": 339,
+            "contagi": 4751
+           },
+           {
+            "date": "2-Apr",
+            "decessi": 382,
+            "contagi": 5044
+           },
+           {
+            "date": "3-Apr",
+            "decessi": 416,
+            "contagi": 5389
+           },
+           {
+            "date": "4-Apr",
+            "decessi": 443,
+            "contagi": 5804
+           },
+           {
+            "date": "5-Apr",
+            "decessi": 464,
+            "contagi": 6018
+           },
+           {
+         "date": "6-Apr",
+         "decessi": 507,
+         "contagi": 6246
+        },
+        {
+         "date": "7-Apr",
+         "decessi": 542,
+         "contagi": 6425
+        },
+        {
+            "date": "8-Apr",
+            "decessi": 572,
+            "contagi": 6622
+           },
+           {
+            "date": "9-Apr",
+            "decessi": 605,
+            "contagi": 6992
+           },
+           {
+            "date": "10-Apr",
+            "decessi": 641,
+            "contagi": 7375
+           },
+           {
+            "date": "11-Apr",
+            "decessi": 689,
+            "contagi": 7642
+           },
+           {
+            "date": "12-Apr",
+            "decessi": 727,
+            "contagi": 7978
+           },
+           {
+            "date": "13-Apr",
+            "decessi": 763,
+            "contagi": 8161
+           },
+           {
+            "date": "14-Apr",
+            "decessi": 803,
+            "contagi": 8383
+           },
+           {
+            "date": "15-Apr",
+            "decessi": 847,
+            "contagi": 8753
+           },
+           {
+            "date": "16-Apr",
+            "decessi": 888,
+            "contagi":9173 
+           },
+           {
+            "date": "17-Apr",
+            "decessi": 918,
+            "contagi": 9543
+           },
+           
+           {
+            "date": "18-Apr",
+            "decessi":942 ,
+            "contagi": 9871
+           },
+           
+           {
+            "date": "19-Apr",
+            "decessi": 991,
+            "contagi": 1157
+           },
+           {
+            "date": "20-Apr",
+            "decessi": 1029,
+            "contagi": 10319
+           },
+           {
+            "date": "21-Apr",
+            "decessi": 1072,
+            "contagi": 10699
+           },
+           {
+            "date": "22-Apr",
+            "decessi": 1105,
+            "contagi": 11091
+           },
+           {
+            "date": "23-Apr",
+            "decessi": 1137,
+            "contagi": 1329
+           },
+           {
+            "date": "24-Apr",
+            "decessi": 1175,
+            "contagi": 11765
+           },
+           {
+            "date": "25-Apr",
+            "decessi": 1217,
+            "contagi": 12031
+           },
+           {
+            "date": "26-Apr",
+            "decessi": 1258,
+            "contagi": 12235
+           },
+           {
+            "date": "27-Apr",
+            "decessi": 1287,
+            "contagi": 12401
+           },
+           {
+            "date": "28-Apr",
+            "decessi": 1312,
+            "contagi": 12625
+           },
+           {
+            "date": "29-Apr",
+            "decessi": 1346,
+            "contagi": 12938
+           },
+           {
+            "date": "30-Apr",
+            "decessi": 1378,
+            "contagi": 13164
+           },
+           {
+            "date": "1-Maggio",
+            "decessi": 1386,
+            "contagi": 3352
+           },
+           {
+            "date": "2-Maggio",
+            "decessi": 1400,
+            "contagi": 3702
+           }
+ 
+        
+    ]
+}
+           
+
+        
