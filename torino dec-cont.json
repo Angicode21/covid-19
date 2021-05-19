@@ -1,0 +1,253 @@
+
+{
+    "Torino": [
+        {
+         "date": "16-Mar",
+         "morti": 20,
+         "contagiati": 542
+        },
+        {
+            "date": "17-Mar",
+            "morti": 25,
+            "contagiati": 904
+           },
+           {
+            "date": "18-Mar",
+            "morti": 35,
+            "contagiati": 1171
+           },
+           {
+            "date": "19-Mar",
+            "morti": 37,
+            "contagiati": 1360
+           },
+           {
+            "date": "20-Mar",
+            "morti": 49,
+            "contagiati":1590 
+           },
+           {
+            "date": "21-Mar",
+            "morti": 62,
+            "contagiati": 1788
+           },
+           {
+            "date": "22-Mar",
+            "morti": 70,
+            "contagiati": 2018
+           },
+           {
+            "date": "23-Mar",
+            "morti": 86,
+            "contagiati": 2317
+           },
+           {
+            "date": "24-Mar",
+            "morti": 105,
+            "contagiati": 2660
+           },
+           {
+            "date": "25-Mar",
+            "morti": 153,
+            "contagiati": 2902
+           },
+           {
+            "date": "26-Mar",
+            "morti": 170,
+            "contagiati": 3149
+           },
+           
+           {
+         "date": "27-Mar",
+         "morti": 193,
+         "contagiati": 3435
+        },
+        {
+            "date": "28-Mar",
+            "morti": 213,
+            "contagiati": 3772
+           },
+           {
+            "date": "29-Mar",
+            "morti": 236,
+            "contagiati": 4012
+           },
+           {
+            "date": "30-Mar",
+            "morti": 271,
+            "contagiati": 4193
+           },
+           {
+         "date": "31-Mar",
+         "morti": 303,
+         "contagiati": 4512
+        },
+        {
+            "date": "1-Apr",
+            "morti": 339,
+            "contagiati": 4751
+           },
+           {
+            "date": "2-Apr",
+            "morti": 382,
+            "contagiati": 5044
+           },
+           {
+            "date": "3-Apr",
+            "morti": 416,
+            "contagiati": 5389
+           },
+           {
+            "date": "4-Apr",
+            "morti": 443,
+            "contagiati": 5804
+           },
+           {
+            "date": "5-Apr",
+            "morti": 464,
+            "contagiati": 6018
+           },
+           {
+         "date": "6-Apr",
+         "morti": 507,
+         "contagiati": 6246
+        },
+        {
+         "date": "7-Apr",
+         "morti": 542,
+         "contagiati": 6425
+        },
+        {
+            "date": "8-Apr",
+            "morti": 572,
+            "contagiati": 6622
+           },
+           {
+            "date": "9-Apr",
+            "morti": 605,
+            "contagiati": 6992
+           },
+           {
+            "date": "10-Apr",
+            "morti": 641,
+            "contagiati": 7375
+           },
+           {
+            "date": "11-Apr",
+            "morti": 689,
+            "contagiati": 7642
+           },
+           {
+            "date": "12-Apr",
+            "morti": 727,
+            "contagiati": 7978
+           },
+           {
+            "date": "13-Apr",
+            "morti": 763,
+            "contagiati": 8161
+           },
+           {
+            "date": "14-Apr",
+            "morti": 803,
+            "contagiati": 8383
+           },
+           {
+            "date": "15-Apr",
+            "morti": 847,
+            "contagiati": 8753
+           },
+           {
+            "date": "16-Apr",
+            "morti": 888,
+            "contagiati":9173 
+           },
+           {
+            "date": "17-Apr",
+            "morti": 918,
+            "contagiati": 9543
+           },
+           
+           {
+            "date": "18-Apr",
+            "morti":942 ,
+            "contagiati": 9871
+           },
+           
+           {
+            "date": "19-Apr",
+            "morti": 991,
+            "contagiati": 1157
+           },
+           {
+            "date": "20-Apr",
+            "morti": 1029,
+            "contagiati": 10319
+           },
+           {
+            "date": "21-Apr",
+            "morti": 1072,
+            "contagiati": 10699
+           },
+           {
+            "date": "22-Apr",
+            "morti": 1105,
+            "contagiati": 11091
+           },
+           {
+            "date": "23-Apr",
+            "morti": 1137,
+            "contagiati": 1329
+           },
+           {
+            "date": "24-Apr",
+            "morti": 1175,
+            "contagiati": 11765
+           },
+           {
+            "date": "25-Apr",
+            "morti": 1217,
+            "contagiati": 12031
+           },
+           {
+            "date": "26-Apr",
+            "morti": 1258,
+            "contagiati": 12235
+           },
+           {
+            "date": "27-Apr",
+            "morti": 1287,
+            "contagiati": 12401
+           },
+           {
+            "date": "28-Apr",
+            "morti": 1312,
+            "contagiati": 12625
+           },
+           {
+            "date": "29-Apr",
+            "morti": 1346,
+            "contagiati": 12938
+           },
+           {
+            "date": "30-Apr",
+            "morti": 1378,
+            "contagiati": 13164
+           },
+           {
+            "date": "1-Maggio",
+            "morti": 1386,
+            "contagiati": 3352
+           },
+           {
+            "date": "2-Maggio",
+            "morti": 1400,
+            "contagiati": 3702
+           }
+ 
+        
+    ]
+}
+           
+
+        
