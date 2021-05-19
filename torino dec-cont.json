@@ -2,245 +2,245 @@
 {
     "Torino": [
         {
-         "date": "16-Mar",
+         "date": "2020-3-16",
          "decessi": 20,
          "contagi": 542
         },
         {
-            "date": "17-Mar",
+            "date": "2020-3-17",
             "decessi": 25,
             "contagi": 904
            },
            {
-            "date": "18-Mar",
+            "date": "2020-3-18",
             "decessi": 35,
             "contagi": 1171
            },
            {
-            "date": "19-Mar",
+            "date": 2020-3-19",
             "decessi": 37,
             "contagi": 1360
            },
            {
-            "date": "20-Mar",
+            "date": "2020-3-20",
             "decessi": 49,
             "contagi":1590 
            },
            {
-            "date": "21-Mar",
+            "date": "2020-3-21",
             "decessi": 62,
             "contagi": 1788
            },
            {
-            "date": "22-Mar",
+            "date": "2020-3-22",
             "decessi": 70,
             "contagi": 2018
            },
            {
-            "date": "23-Mar",
+            "date": "2020-3-23",
             "decessi": 86,
             "contagi": 2317
            },
            {
-            "date": "24-Mar",
+            "date": "2020-3-24",
             "decessi": 105,
             "contagi": 2660
            },
            {
-            "date": "25-Mar",
+            "date": "2020-3-25",
             "decessi": 153,
             "contagi": 2902
            },
            {
-            "date": "26-Mar",
+            "date": "2020-3-26",
             "decessi": 170,
             "contagi": 3149
            },
            
            {
-         "date": "27-Mar",
+         "date": "2020-3-27",
          "decessi": 193,
          "contagi": 3435
         },
         {
-            "date": "28-Mar",
+            "date": "2020-3-28",
             "decessi": 213,
             "contagi": 3772
            },
            {
-            "date": "29-Mar",
+            "date": "2020-3-29",
             "decessi": 236,
             "contagi": 4012
            },
            {
-            "date": "30-Mar",
+            "date": "2020-3-30",
             "decessi": 271,
             "contagi": 4193
            },
            {
-         "date": "31-Mar",
+         "date": "2020-3-31",
          "decessi": 303,
          "contagi": 4512
         },
         {
-            "date": "1-Apr",
+            "date": "2020-4-1",
             "decessi": 339,
             "contagi": 4751
            },
            {
-            "date": "2-Apr",
+            "date": "2020-4-2",
             "decessi": 382,
             "contagi": 5044
            },
            {
-            "date": "3-Apr",
+            "date": "2020-4-3",
             "decessi": 416,
             "contagi": 5389
            },
            {
-            "date": "4-Apr",
+            "date": "2020-4-4",
             "decessi": 443,
             "contagi": 5804
            },
            {
-            "date": "5-Apr",
+            "date": "2020-4-5",
             "decessi": 464,
             "contagi": 6018
            },
            {
-         "date": "6-Apr",
+         "date": "2020-4-6",
          "decessi": 507,
          "contagi": 6246
         },
         {
-         "date": "7-Apr",
+         "date": "2020-4-7",
          "decessi": 542,
          "contagi": 6425
         },
         {
-            "date": "8-Apr",
+            "date": "2020-4-8",
             "decessi": 572,
             "contagi": 6622
            },
            {
-            "date": "9-Apr",
+            "date": "2020-4-9",
             "decessi": 605,
             "contagi": 6992
            },
            {
-            "date": "10-Apr",
+            "date": "2020-4-10",
             "decessi": 641,
             "contagi": 7375
            },
            {
-            "date": "11-Apr",
+            "date": "2020-4-11",
             "decessi": 689,
             "contagi": 7642
            },
            {
-            "date": "12-Apr",
+            "date": "2020-4-12",
             "decessi": 727,
             "contagi": 7978
            },
            {
-            "date": "13-Apr",
+            "date": "2020-4-13",
             "decessi": 763,
             "contagi": 8161
            },
            {
-            "date": "14-Apr",
+            "date": "2020-4-14",
             "decessi": 803,
             "contagi": 8383
            },
            {
-            "date": "15-Apr",
+            "date": "2020-4-15",
             "decessi": 847,
             "contagi": 8753
            },
            {
-            "date": "16-Apr",
+            "date": "2020-4-16",
             "decessi": 888,
             "contagi":9173 
            },
            {
-            "date": "17-Apr",
+            "date": "2020-4-17",
             "decessi": 918,
             "contagi": 9543
            },
            
            {
-            "date": "18-Apr",
+            "date": "2020-4-18",
             "decessi":942 ,
             "contagi": 9871
            },
            
            {
-            "date": "19-Apr",
+            "date": "2020-4-19",
             "decessi": 991,
             "contagi": 1157
            },
            {
-            "date": "20-Apr",
+            "date": "2020-4-20",
             "decessi": 1029,
             "contagi": 10319
            },
            {
-            "date": "21-Apr",
+            "date": "2020-4-21",
             "decessi": 1072,
             "contagi": 10699
            },
            {
-            "date": "22-Apr",
+            "date": "2020-4-22",
             "decessi": 1105,
             "contagi": 11091
            },
            {
-            "date": "23-Apr",
+            "date": "2020-4-23",
             "decessi": 1137,
             "contagi": 1329
            },
            {
-            "date": "24-Apr",
+            "date": "2020-4-24",
             "decessi": 1175,
             "contagi": 11765
            },
            {
-            "date": "25-Apr",
+            "date": "2020-4-25",
             "decessi": 1217,
             "contagi": 12031
            },
            {
-            "date": "26-Apr",
+            "date": "2020-4-26",
             "decessi": 1258,
             "contagi": 12235
            },
            {
-            "date": "27-Apr",
+            "date": "2020-4-27",
             "decessi": 1287,
             "contagi": 12401
            },
            {
-            "date": "28-Apr",
+            "date": "2020-4-28",
             "decessi": 1312,
             "contagi": 12625
            },
            {
-            "date": "29-Apr",
+            "date": "2020-4-29",
             "decessi": 1346,
             "contagi": 12938
            },
            {
-            "date": "30-Apr",
+            "date": "2020-4-30",
             "decessi": 1378,
             "contagi": 13164
            },
            {
-            "date": "1-Maggio",
+            "date": "2020-5-1",
             "decessi": 1386,
             "contagi": 3352
            },
            {
-            "date": "2-Maggio",
+            "date": "2020-5-2",
             "decessi": 1400,
             "contagi": 3702
            }
